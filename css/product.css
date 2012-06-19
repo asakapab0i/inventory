@@ -1,0 +1,52 @@
+#main_section{
+	margin-left:6px;
+	margin-top:10px;
+	margin-bottom:10px;
+	float:left;
+	text-align:left;
+	width:946px;
+	padding: 19px;
+	background-color:#006699;
+	border: solid 1px #CC6600;
+}
+table{
+	width:85%;
+	text-align:left;
+	margin:15px auto 0px;
+	margin-bottom:15px;
+	
+}
+
+#main_section{
+
+	width:8px;
+	float:left;
+	text-align: left;
+	background-color:#006699;
+	margin-left:6px;
+	border: solid 1px #CC6600;
+	width:947px;
+	
+}	
+
+.dropdown{
+	color:#CC6600;
+	font-weight:bold;
+	padding:1px;
+
+}
+.forms{
+	width:85%;
+	text-align:left;
+	float:left
+	margin:15px auto 0px;
+	margin-bottom:15px;
+	}
+.productTitle{
+	text-align:center;
+	font-size:20px;
+	}
+td{
+	padding:10px;
+	}
+

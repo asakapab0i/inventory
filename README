@@ -1,7 +1,20 @@
-This is the README file. 
-ADDED SOME TEXT.
+This is an inventory system web application which track products that the company or store is selling, from product tracking to data warehousing all the popular features are implemented.
 
-I ADDED ANOTHER TEXT in the notepad
+inventory-sys 1.0.0 (First Release)
+-login page
+-register page
+-product page
+-ledger page
+-sales page
+-delivery page
+-returns page
+-add product
+-logs
 
-
-I added the php files for inventory systems
+future implementations 1.0.1 (Future release)
+-reports page
+-data warehousing
+-validations
+-gui centralization
+-possible code restructuring
+-code cleaning
